@@ -57,8 +57,3 @@ The data for this project was collected from two major retail websites, **Jarir*
 ## Streamlit Deployment 
 
 [Laptop Recommendation System](https://laptop-pred.streamlit.app/)
-
-
-## Bouns 
-
-[Laptop Recommendation System Dataset](https://www.kaggle.com/datasets/raghad2009/laptop-recommendation-system-dataset/settings)
